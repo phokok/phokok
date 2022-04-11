@@ -21,7 +21,7 @@
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from TOGO/lome.
-- :telescope: I’m working as a studeb.
+- :telescope: I’m working as a freelance.
 
 - :seedling: Exploring Technical Content Writing.
 
